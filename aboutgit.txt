@@ -1,0 +1,16 @@
+Working Directory	- git init
+		
+
+
+
+Staging Area	- git add	
+
+
+
+
+Local Repository	- git commit
+
+
+
+
+Remote Repository	- git push url 
